@@ -3,4 +3,4 @@ This repository contains all the files needed to get up and running with an old 
 
 By "old" I mean the version that is not dependent on cloud printing. This is several years the ancestor of the current printers. Who knows, maybe I am the only one who even has one anymore! 
 
-
+Check out the wiki for a brief guide to printing with the Polar3D.
